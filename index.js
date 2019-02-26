@@ -26,5 +26,5 @@ function iLoveTheBeatles(number){
     number++;
   }
   while (number<count);
-  return
+  return loveOfBeatles;
 }
