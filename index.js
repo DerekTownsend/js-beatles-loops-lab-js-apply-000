@@ -1,8 +1,8 @@
 // add solution here
 
 function theBeatlesPlay(musicians[],instruments[]){
-  x=[]
+  var x=[]
   for(counter=0;i<musicians.length;counter++){
-
+    var artistPlays=musicians[counter]+" plays"+
   }
 }
