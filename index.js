@@ -3,7 +3,7 @@
 function theBeatlesPlay(musicians[],instruments[]){
   var artistAndInstruments=[];
   var artistPlays;
-  for(counter=0;i<musicians.length;counter++){
+  for(counter=0;counter<musicians.length;counter++){
     artistPlays=musicians[counter]+" plays "+instruments[counter];
     artistAndInstruments.unshift(artistPlays)
   }
