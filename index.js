@@ -7,4 +7,5 @@ function theBeatlesPlay(musicians[],instruments[]){
     artistPlays=musicians[counter]+" plays "+instruments[counter];
     artistAndInstruments.push(artistPlays)
   }
+  return artistAndInstruments;
 }
