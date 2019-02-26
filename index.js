@@ -5,7 +5,7 @@ function theBeatlesPlay(musicians,instruments){
   var artistPlays;
   for(counter=0;counter<musicians.length;counter++){
     artistPlays=musicians[counter]+" plays "+instruments[counter];
-    artistAndInstruments.push(artistPlays)
+    artistAndInstruments.push(artistPlays);
   }
   return artistAndInstruments;
 }
@@ -20,9 +20,10 @@ function johnLennonFacts(facts){
 }
 
 function iLoveTheBeatles(number){
-  var x=[];
+  var loveOfBeatles=[];
   do{
-
+    x.push();
+    number++;
   }
   while (number<count)
 }
