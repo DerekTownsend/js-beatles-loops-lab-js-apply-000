@@ -24,6 +24,5 @@ function iLoveTheBeatles(number){
   do{
 
   }
-  while (number<count) {
-  }
+  while (number<count)
 }
