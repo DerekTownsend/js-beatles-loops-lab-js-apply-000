@@ -1,6 +1,6 @@
 // add solution here
 
-function theBeatlesPlay(musicians[],instruments[]){
+function theBeatlesPlay(musicians,instruments){
   var artistAndInstruments=[];
   var artistPlays;
   for(counter=0;counter<musicians.length;counter++){
@@ -9,4 +9,4 @@ function theBeatlesPlay(musicians[],instruments[]){
   }
   return artistAndInstruments;
 }
-function johnLennonFacts(facts[])
+function johnLennonFacts(facts)
